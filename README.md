@@ -22,7 +22,7 @@ This repository includes a Python solver for the assignment to estimate the unkn
 - L1 residual on perpendicular component: `≈ 0.02257`
 - L1 position error (|Δx|+|Δy|): `≈ 0.03083`
 
-### Final Equation (LaTeX-ready)
+### Final Equation 
 `\left(t*\cos(30.000000\,\deg)-e^{0.030000\left|t\right|}\cdot\sin(0.3t)\sin(30.000000\,\deg)+55.000000,\;42+t*\sin(30.000000\,\deg)+e^{0.030000\left|t\right|}\cdot\sin(0.3t)\cos(30.000000\,\deg)\right)`
 
 ### Reproduce Locally
