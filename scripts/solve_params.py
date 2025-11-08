@@ -135,8 +135,7 @@ def main():
         'X': refined['X'],
         'err_e2_l1': refined['err'],
         'err_xy_l1': l1_xy,
-        'has_t_in_csv': has_t,
-        'csv_path': str(csv_path)
+        'has_t_in_csv': has_t
     }
     print(json.dumps(result, indent=2))
     # also write to results.json and results.md

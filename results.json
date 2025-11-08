@@ -4,6 +4,5 @@
   "X": 55.0,
   "err_e2_l1": 0.022572405078793885,
   "err_xy_l1": 0.030834478761484263,
-  "has_t_in_csv": false,
-  "csv_path": "/Users/malavikaajith/Documents/trae_projects/assignment/data/xy_data.csv"
+  "has_t_in_csv": false
 }
