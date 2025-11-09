@@ -151,7 +151,7 @@ def main():
     out_md.write_text(
         "# Fitted Parameters\n\n"
         + json.dumps(result, indent=2)
-        + "\n\n**Equation (LaTeX-ready):**\n\n" + equation + "\n"
+        + "\n\n**Equation:**\n\n" + equation + "\n"
     )
 
 
